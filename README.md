@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="assets/ChatBot.png" alt="AdvogaBot" width="300" height="300">
+  <img src="assets/AdvogaBot-2.jpg" alt="AdvogaBot" width="300" height="300">
 </div>
 
 **AdvogaBot** é um chatbot jurídico impulsionado por Inteligência Artificial que aplica RAG (Retrieval-Augmented Generation) para fornecer respostas precisas a partir de documentos legais hospedados na AWS.
